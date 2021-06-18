@@ -1,0 +1,17 @@
+{
+  "name": "lgx-clip-queue-bot",
+  "version": "1.0.0",
+  "description": "a bot to queue clips from chat into a front end interface for automatic viewing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xtamon",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "tmi.js": "^1.8.3"
+  }
+}
